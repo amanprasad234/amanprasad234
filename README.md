@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @amanprasad234
-- 👀 I’m interested in Web Development and Programmin.
-- 🌱 I’m currently learning c++ Programming.
-- 2 star at codechef.
-- 💞️ I’m looking to collaborate on Development sector.
+- Software Engineer
+- Front-End Developer
 - 📫 How to reach me : amanprasad621@gmail.com
 
 <!---
